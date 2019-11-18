@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.scss']
 })
 export class AppComponent {
-  title = 'gFlowAppLab';
+  title = 'This a Git Flow lab changed again';
 }
